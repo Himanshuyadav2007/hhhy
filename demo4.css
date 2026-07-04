@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    color:white;
+}
+#header{
+height:70px;
+background-color:black;
+}
+button{
+    background-color:red;
+}
+#logo{
+    font-size:25px;
+    color:darkred;
+    padding:18px;
+}
+a{
+    margin-right:125px;
+}
+h1{
+    color:black;
+}
+footer{
+    color:black;
+    background-color:yellow;
+}
+
